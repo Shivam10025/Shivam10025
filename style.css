@@ -333,7 +333,7 @@ section .title::before{
 }
 .links .links-content .card a{
     display: inline-block;
-    background:blue;
+    background:white;
     color: #fff;
     font-size: 15px;
     padding: 10px 30px;
@@ -342,7 +342,7 @@ section .title::before{
     transition: all 0.3s ease;
 }
 .links .links-content .card a:hover{
-    color: blue;
+    color: white;
     background: none;
 }
 .links .links-content .card:hover{
